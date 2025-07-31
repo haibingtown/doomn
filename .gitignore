@@ -8,7 +8,6 @@ ocrs
 Manga
 Manga-translated
 /models
-/uploads
 .env
 *.local
 *.local.*
@@ -35,7 +34,6 @@ sdist/
 var/
 wheels/
 share/python-wheels/
-uploads/
 models/
 *.egg-info/
 .installed.cfg
@@ -43,7 +41,6 @@ models/
 MANIFEST
 .history
 psd2fabric
-uploads
 models
 *.pyc
 
