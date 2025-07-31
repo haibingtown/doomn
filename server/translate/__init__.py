@@ -1,0 +1,22 @@
+LANS = [
+        'zh',
+        'cht',
+        'ja',
+        'en',
+        'kor',
+        'vie',
+        'cs',
+        'nl',
+        'fra',
+        'de',
+        'hu',
+        'it',
+        'pl',
+        'pt',
+        'rom',
+        'ru',
+        'spa',
+        'srp',
+        'hrv',
+        'th'
+    ]

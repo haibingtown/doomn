@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "canvas": "2.11.2",
+    "fabric": "5.3.0",
+    "fontmin": "1.0.1",
+    "pnpm": "^9.1.3"
+  },
+  "name": "one-piece",
+  "description": "[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![GitHub stars](https://img.shields.io/github/stars/haibingtown/PSD2Fabric.svg)](https://github.com/haibingtown/PSD2Fabric/stargazers) [![GitHub issues](https://img.shields.io/github/issues/haibingtown/PSD2Fabric.svg)](https://github.com/haibingtown/PSD2Fabric/issues) [![GitHub forks](https://img.shields.io/github/forks/haibingtown/PSD2Fabric.svg)](https://github.com/haibingtown/PSD2Fabric/network) ![GitHub contributors](https://img.shields.io/github/contributors/haibingtown/PSD2Fabric.svg)",
+  "version": "1.0.0",
+  "main": "fabric_render.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
